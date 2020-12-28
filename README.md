@@ -13,3 +13,8 @@ Simple test describing decoding problem in playwright with webkit.
 ```sh
     yarn test
 ```
+
+## Issue
+
+✅ https://github.com/microsoft/playwright/issues/4833
+
